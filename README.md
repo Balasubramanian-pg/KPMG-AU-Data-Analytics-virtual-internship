@@ -1,4 +1,4 @@
-You can use either Tableau or Excel for your presentation.
+You can use either Tableau or Excel for your presentation. I personally use Excel for rough drafts and suggestions, then repeat the same in Tableau.
 The model answer for task 1 must be backed by your own research which makes the solution authentic and personal
 # Task 1 Data Quality Assessment
 
